@@ -26,4 +26,4 @@ Para el diseño e implementación de la tienda, se hace necesario cumplir con lo
 
 9. Crear una clase de prueba que permita observar el funcionamiento del programa, para consultar la información de los objetos instanciados y disponibles en la tienda
 
-Para ejecutar el programa ejecute el archivo Logica/pruebas.java
+Para ejecutar el programa ejecute el archivo Logica/pruebas.java. En la carpeta Diagramado esta el UML
